@@ -1,0 +1,17 @@
+{
+  "name": "stupid-calc",
+  "version": "0.1.0",
+  "description": "Easy calc, my first cli 💖",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -- index.js add 1 2 taco 6"
+  },
+  "keywords": [
+    "calc"
+  ],
+  "author": "Oliver Weber",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
